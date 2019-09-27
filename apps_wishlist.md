@@ -39,8 +39,8 @@ The following list is a compiled wishlist of applications that would be nice-to-
 - [CumulusClips](http://cumulusclips.org)
 - [Cyclos](https://www.cyclos.org)
 - [Darkwire.io](https://github.com/seripap/darkwire.io)
-- [Deluge](http://deluge-torrent.org) (with WebUI)
 - [DirectoryLister](https://github.com/DirectoryLister/DirectoryLister)
++ [Mon site](#)
 - [DNSchain](https://github.com/okTurtles/dnschain)
 - [eLabFTW](https://www.elabftw.net/) electronic lab notebook
 - [Emoncms](https://github.com/emoncms/emoncms)
